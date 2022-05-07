@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Harish",
+      "lastname": "Tani",
+      "email": "harsh@yahoo.com",
+      "homeNo": "+91222121212",
+      "workNo": "+91234343434",
+      "birthdate": "02-04-1998",
+      "company": "XYX",
+      "jobTitle": "hr",
+      "notes": "-"
+    },
+    {
+      "firstname": "Raju ",
+      "lastname": "malik",
+      "email": "rajuji@niit.com",
+      "homeNo": "+9100444434",
+      "workNo": "+91656543212",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1985-12-25",
+      "company": "NIIT",
+      "jobTitle": "sales head",
+      "notes": "14 exp",
+      "id": 2
+    },
+    {
+      "firstname": "Diya",
+      "lastname": "gharti",
+      "email": "rri@yahoo.com",
+      "homeNo": "+9100444434",
+      "workNo": "+9889668",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1995-04-19",
+      "company": "tcs",
+      "jobTitle": "HR",
+      "notes": "expected salary 15lpa",
+      "id": 3
+    },
+    {
+      "firstname": "Anuj",
+      "lastname": "rampal",
+      "email": "fhf@gmail.com",
+      "homeNo": "+9100444434",
+      "workNo": "64574869570",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1986-11-30",
+      "company": "xyz",
+      "jobTitle": "abc",
+      "notes": "this is notes parts",
+      "id": 4
+    },
+    {
+      "firstname": "sahil",
+      "lastname": "panwer",
+      "email": "spsahil@gmail.com",
+      "homeNo": "+9100444434",
+      "workNo": "+91574869570",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1995-11-30",
+      "company": "xyz",
+      "jobTitle": "abc",
+      "notes": "notes 5+ year exp",
+      "id": 5
+    },
+    {
+      "firstname": "Riyan",
+      "lastname": "Khan",
+      "email": "reyan@yahooo.com",
+      "homeNo": "+9100444434",
+      "workNo": "+9124334343",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1989-12-29",
+      "company": "Capgemini",
+      "jobTitle": "Associate tech head",
+      "notes": "10years experience of IT firm",
+      "id": 6
+    },
+    {
+      "firstname": "Salil",
+      "lastname": "Dobhalta",
+      "email": "salild@gmail.com",
+      "homeNo": "+9123256577",
+      "workNo": "+91234242424",
+      "homeNo1": "",
+      "workNo1": "",
+      "birthdate": "1979-10-02",
+      "company": "Myntra",
+      "jobTitle": "Web developer",
+      "notes": "10years exp.",
+      "id": 7
+    }
+  ]
+}
